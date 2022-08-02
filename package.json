@@ -1,0 +1,22 @@
+{
+  "name": "rsvpdapp",
+  "version": "1.0.0",
+  "description": "Project of #30DaysofWeb3 journey thanks @womenbuiltweb3 community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChioGT/RSVPdApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChioGT/RSVPdApp/issues"
+  },
+  "homepage": "https://github.com/ChioGT/RSVPdApp#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}

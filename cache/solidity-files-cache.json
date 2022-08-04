@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/ubuntu/30daysofweb3/RSVPdApp/RSVPdApp/contracts/Web3RSVP.sol": {
+      "lastModificationDate": 1659484672532,
+      "contentHash": "2ab0fc93484eb4801c092fbbb050867c",
+      "sourceName": "contracts/Web3RSVP.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Web3RSVP"
+      ]
+    }
+  }
+}
